@@ -30,7 +30,7 @@ A Heap is a special Tree-based data structure in which the tree is a complete bi
 - It is used in Dijkstra's Shortest Path Algorithm using priority queue.
 - It is used to implement Prim’s Algorithm to store keys of nodes and extract minimum key node at every step.
 - It is used in Huffman codes which is used to compresses data.
-- It is used in a search algorithm which is used to find the shortest path between two vertices of a weighted graph.
+- It is used in A* search algorithm which is used to find the shortest path between two vertices of a weighted graph.
 - It is used in heap sort.Heap sort is typically implemented using Heap which is an implementation of Priority Queue.
 
 #### Why using Heap to implement priority queue instead of maps?
