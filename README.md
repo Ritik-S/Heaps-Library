@@ -13,7 +13,7 @@
 ###### What is priority queue using min heap?
 
 In computer science, a priority queue is an abstract data type similar to a regular queue or stack data structure in which each element is arranged on the basis of its priority.
-Since we are implmenting priority queue using min heap it will be useful to extract least priority element, remove it.<br>
+Since we are implementing priority queue using min heap it will be useful to extract least priority element, remove it.<br>
 
 ###### What is heap?
 A Heap is a special Tree-based data structure in which the tree is a complete binary tree.
