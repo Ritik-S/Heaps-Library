@@ -35,7 +35,7 @@ A Heap is a special Tree-based data structure in which the tree is a complete bi
 
 #### Why using Heap to implement priority queue instead of maps?
 
-A heap is sorted initially, When ever we insert a new element, it just needs to iterate through height of tree 
+A heap is sorted initially, Whenever we insert a new element, it just needs to iterate through height of tree 
 in worst case which can be done in logarithmic time.
 map is a red-black tree, so it takes O(N log N) time to insert the elements, keeping them sorted after each insertion. They are stored as linked nodes, so each item incurs malloc and free overhead. Then it takes O(N) time to iterate over them and destroy the structure.
 Therefore,heaps are much faster as compare to maps.
