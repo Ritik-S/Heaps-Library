@@ -2,8 +2,8 @@
 ### Goals 
 1) The main goal was to implement a priority queue that has key functions like
       1) inserting a new element
-      2) removing the minimum element 
-      3) get minimum element
+      2) removing the element with max priority 
+      3) get the element with max priority
 
 2) Implementing it in such a way that every major operation takes logarithmic running time 
 3) Making priority queue using min heap in C language, as there is no inbuilt library for this. 
