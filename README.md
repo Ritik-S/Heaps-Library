@@ -6,18 +6,18 @@
       3) get the element with max priority
 
 2) Implementing it in such a way that every major operation takes logarithmic running time 
-3) Making priority queue using min heap in C language, as there is no inbuilt library for this. 
+3) Making priority queue using heap in C language, as there is no inbuilt library for this. 
 
 ### Description:
 
-###### What is priority queue using min heap?
+###### What is priority queue using heap?
 
 In computer science, a priority queue is an abstract data type similar to a regular queue or stack data structure in which each element is arranged on the basis of its priority.
-Since we are implementing priority queue using min heap it will be useful to extract the least priority element, remove it.<br>
+Since we are implementing priority queue using heap it will be useful to extract the element on the basis of priority, remove it.<br>
 
 ###### What is heap?
 A Heap is a special Tree-based data structure in which the tree is a complete binary tree.
- In a Min-Heap the key present at the root node must be minimum among the keys present at all of its children. The same property must be recursively true for all sub-trees in that Binary Tree.
+In a Min-Heap the key present at the root node must be minimum among the keys present at all of its children and is reverse in case of Max-Heap. The same property must be recursively true for all sub-trees in that Binary Tree.
 
 
 
