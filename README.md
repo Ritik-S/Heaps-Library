@@ -43,7 +43,7 @@ Therefore,heaps are much faster as compare to maps.
 
 ### Design and Specifications :
 
-There are 3 files , one is priority_queue.c which contains the implementation of the data structure ,other is Main.c file which contains driver function.And last file is heap.h ....
+There are 3 files , one is priority_queue.c which contains the implementation of the data structure ,other is Main.c file which contains driver function.And last file is heap.h contains Function declaration.
 It can be included in Main.c by using "#include "heap.h"".
 
 Here is description about priority_queue.c file :
