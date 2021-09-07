@@ -55,7 +55,7 @@ Priority_queue.c file contains all the function of heap data structure . Using t
 |is_empty()| It checks if our priority queue is empty or not|
 |front()| It returns the element according to their priority in our priority queue in O(1) time complexity.|
 |push()| It inserts an element to our complete binary tree in such a way that it satisfies the properties of a complete binary tree. It completes this operation in logarithmic time i.e log(n) time complexity.|
-|pop()| It removes the minimum element in heap. It is done by swapping last element with root of tree. Now end element is removed which is now current element to be removed and it arranges root in order to maintain order of Complete binary tree.|
+|pop()| It removes the minimum/maximum element in heap. It is done by swapping last element with root of tree. Now end element is removed which is now current element to be removed and it arranges root in order to maintain order of Complete binary tree.|
 |get_size()| It returns size of heap.|
    
 
