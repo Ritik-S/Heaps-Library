@@ -47,7 +47,7 @@ There are 3 files , one is priority_queue.c which contains the implementation of
 It can be included in Main.c by using "#include "heap.h"".
 
 Here is description about priority_queue.c file :
-Priority.c file contains all the function of heap data structure . Using these functions we can insert an element, get minimum element or remove the minimum element or get size of priority queue.
+Priority_queue.c file contains all the function of heap data structure . Using these functions we can insert an element, get minimum element or remove the minimum element or get size of priority queue.
 
 | Function name | Description |                                                  
 | :---: | :---: |
